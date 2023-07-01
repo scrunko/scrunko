@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/scrunko/scrunko/assets/138329945/119e759a-0e76-49f6-ba74-00aeda4a1aec)
 
 <!--
 **scrunko/scrunko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
